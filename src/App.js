@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hola, ¿Qué hace?. Perro
+          Hola, ¿Qué hace?. Cambiando desde otra Rama y haciendo el Merge.
         </p>
         <a
           className="App-link"
